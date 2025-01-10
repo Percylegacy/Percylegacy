@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Percylegacy
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning ... web development
+- 👀 I’m interested in programming and web development
+- 🌱 I’m currently learning ... React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:percylegacy85@gmail.com
 - 😄 Pronouns: ...
